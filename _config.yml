@@ -1,3 +1,5 @@
 markdown:       kramdown
 markdown_ext:   markdown,mkd,mkdn,md
 exclude:        [ "script" ]
+
+theme: jekyll-theme-cayman
