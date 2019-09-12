@@ -1,4 +1,4 @@
 ---
-title: Gif Collection
+title: ASL Gifs Collection
 layout: home
 ---
